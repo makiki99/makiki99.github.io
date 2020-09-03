@@ -5,13 +5,21 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
+  <div class="date">
+    Written on {{ page.date | date: "%Y-%m-%d" }}
+  </div>
+
   <div class="entry">
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  {% include disqus.html %}
+  <div id="hyvor-talk-view"></div>
+  <script type="text/javascript">
+      var HYVOR_TALK_WEBSITE = 1877; // DO NOT CHANGE THIS
+      var HYVOR_TALK_CONFIG = {
+          url: '{{ page.url | absolute_url }}',
+          id: '{{page.id}}'
+      };
+  </script>
+  <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
 </article>
