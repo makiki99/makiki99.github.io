@@ -9,5 +9,8 @@
         "mobas",
         "skillset",
         "wasd"
+    ],
+    "cSpell.ignoreWords": [
+        "makiki"
     ]
 }
