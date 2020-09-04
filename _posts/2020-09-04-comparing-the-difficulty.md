@@ -4,7 +4,7 @@ title: Comparing the difficulty of competitive games
 category: game design
 ---
 
-If anyone knows me, I love playing Heroes of Might and Magic III, especially with the Horn of the Abyss mod. I especially enjoy the competitive PvP in this game - even though I am a relatively weak player, and there are certain random map templates that I don't like. Recently, I had a small discussion about what exactly the term "difficult map template" meant. We haven't reached any meaningful conclusion, but at least this inspired me to analyze this myself in a broader term - as in for competitive games in general.
+If anyone knows me, they know that I love playing Heroes of Might and Magic III, especially with the Horn of the Abyss mod. I especially enjoy the competitive PvP in this game - even though I am a relatively weak player, and there are certain random map templates that I don't like. Recently, I had a small discussion about what exactly the term "difficult map template" meant. We haven't reached any meaningful conclusion, but at least this inspired me to analyze this myself in a broader term - as in for competitive games in general.
 
 Now, if you are a person who wants to prove whether DotA or LoL is more difficult, and stumbled upon this article... Well, you will be disappointed by what I am going to write. I am going to say it at the very, very start - there is no single metric of difficulty that you can use for this purpose, at least not in a way worth discussing. It is important to think about the difficulty on multiple layers, each being relevant to the discussion.
 
